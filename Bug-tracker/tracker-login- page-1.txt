@@ -3,7 +3,8 @@
 Done
 > Created first draft of HTML and CSS
 > CSS linked to HTML file
+> Added GitHub logo to footer
 
-To Done
+To Do
 
 > 
